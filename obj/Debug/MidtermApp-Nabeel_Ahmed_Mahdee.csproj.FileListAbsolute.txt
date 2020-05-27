@@ -1,0 +1,9 @@
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\bin\Debug\MidtermApp-Nabeel_Ahmed_Mahdee.exe.config
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\bin\Debug\MidtermApp-Nabeel_Ahmed_Mahdee.exe
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\bin\Debug\MidtermApp-Nabeel_Ahmed_Mahdee.pdb
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\obj\Debug\MidtermApp-Nabeel_Ahmed_Mahdee.csprojAssemblyReference.cache
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\obj\Debug\MidtermApp_Nabeel_Ahmed_Mahdee.Form1.resources
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\obj\Debug\MidtermApp_Nabeel_Ahmed_Mahdee.Properties.Resources.resources
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\obj\Debug\MidtermApp-Nabeel_Ahmed_Mahdee.csproj.GenerateResource.cache
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\obj\Debug\MidtermApp-Nabeel_Ahmed_Mahdee.exe
+C:\Users\nabee\source\repos\MidtermApp-Nabeel_Ahmed_Mahdee\obj\Debug\MidtermApp-Nabeel_Ahmed_Mahdee.pdb
